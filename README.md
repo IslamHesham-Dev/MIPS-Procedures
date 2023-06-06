@@ -1,4 +1,4 @@
- MIPS-Procedures Documentation
+ # MIPS-Procedures Documentation
 
 ## **Selection Sort (Sel_Sort)**
 
