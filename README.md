@@ -1,7 +1,5 @@
 # MIPS-Procedures Documentation
 
-# **MIPS Procedures Documentation**
-
 ## **Selection Sort (Sel_Sort)**
 
 **The Sel_Sort procedure implements the Selection Sort algorithm in MIPS assembly. It takes as input the address of the first element of an array and the number of elements in the array. The procedure sorts the array in ascending order.**
