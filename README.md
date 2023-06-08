@@ -1,7 +1,5 @@
  # MIPS-Procedures Documentation
 
-# **MIPS Procedures Documentation**
-
 ## **A) Sel-Sort works as following: -**
 
 ## **Java Code**
